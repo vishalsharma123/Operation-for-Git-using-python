@@ -20,7 +20,7 @@ DIR_NAME = new_path
 
 REMOTE_URL ="GitURL"#if you already connected with server you dont need to give any credential
 
-#REMOTE_URL looks "git@github.qualcomm.com:path of Repo"
+#REMOTE_URL looks "git@github.com:path of Repo"
 
 
 #code for clone
